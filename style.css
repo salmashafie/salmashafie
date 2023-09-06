@@ -1,0 +1,636 @@
+.header span{
+    color: rgb(248, 6, 6);
+    font-style: italic;
+    font-size: smaller;
+
+}
+
+
+.head h1{
+    font-size: 2.8em;
+}
+.head p{
+    font-size: large;
+}
+.head button{
+    border-radius: 20px;
+    background-color: rgb(247, 201, 0);
+    padding: 15px;
+    text-align: center;
+    font-size: larger;
+ 
+}
+
+.header{
+    background-color: rgb(250, 250, 236);
+    margin-bottom: 150px;
+   
+}
+.head{
+    background-image: url(image/1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 600px;
+     margin-left: 150px;
+    }
+.head p{
+    font-size: 25px;
+}
+.head h2{
+    font-size: 57px;
+}
+
+.body{
+    background-color: rgb(247, 247, 192);
+}
+.first{
+    width: 390px;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 150px;
+    background-color: #fff;
+    border-radius: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 60px;    
+    
+}
+.first img{
+    margin-left: 130px;
+}
+.first p{
+    text-align: center;
+
+    
+}
+.first h3{
+    text-align: center;
+    font-size: 20px;
+}
+.second{
+    width: 390px;
+    height: 230px;
+    display: inline-block;
+    margin-left: 50px;
+    background-color: rgb(211, 190, 0);
+    border-radius: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 50px;
+    
+}
+.second img{
+    margin-left: 130px;
+    margin-top: 13px;
+}
+.second p{
+    text-align: center;
+}
+
+.thrid{
+    width: 390px;
+    height: 180px;
+    display: block;
+    margin-left: 430px;
+    margin-top: 50px;
+    background-color: #fff;
+    border-radius: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 70px;
+    text-align: center;
+}
+
+
+
+.document{
+        width: 100%;
+        display: inline-block;
+        background-color: #fff;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-left: 650px;
+        padding: 0px;
+        
+}
+.package{
+    display: flex;
+}
+.Fresh{
+    width: 140px;
+    display: inline-block;
+    padding: 40px;
+    background-color: antiquewhite;
+    border: 40px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 20px;
+       background-image: url(image/1\(1\).png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-position: 18px;
+    background-size: 30px;
+
+
+}
+.fast{
+    width: 140px;
+    display: inline-block;
+    padding: 40px;
+    background-color: antiquewhite;
+    border: 40px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(image/2.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-position: 18px;
+    background-size: 30px;
+
+
+}
+.div p{
+margin: 20px;
+  width: 120px;
+  text-align: center;
+
+}
+.quality{
+    width: 140px;
+    display: inline-block;
+    padding: 40px;
+    background-color: antiquewhite;
+    border: 40px;
+    margin-left: 8px;
+    background-image: url(image/3.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-position: 18px;
+    background-size: 30px;
+    font-size: 12px;
+
+
+}
+.tel{
+        width: 140px;
+        display: inline-block;
+        padding: 40px;
+        background-color: antiquewhite;
+        border: 40px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        background-image: url(image/4.png);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-position: 18px;
+        background-size: 30px;
+        margin-left: 23px;
+    
+}
+h5{
+    font-size: 50px;
+}
+.image img{
+    width: 300px;
+   
+
+}
+.title{
+
+    text-align: center;
+
+}
+.title h1{
+    font-size: 2.8em;
+
+}
+.title p{
+    font-size: 20px;
+}
+
+.title span{
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    text-align: center; 
+}
+.burger{
+    width: 630px;
+    margin-top: 100px;
+    margin-left: 320px;
+    background-color: rgb(248, 190, 0);
+    border-radius: 10px; 
+    padding: 25px;
+    background-image: url(image/1\(2\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+      
+}
+.menu p{
+     margin-left: 25px;
+     font-size: 25px;
+    
+ }
+ .menu h2{
+    margin-left: 20px;
+    font-size: 22px;
+    font-style: italic;
+ }
+ .menu h2 span{
+      color: rgb(238, 5, 5);
+      font-style: normal;
+      font-size: 40px;
+ }
+ .enjoy{
+    width: 260px;
+    height: 300px;
+    display: inline-block;
+    background-color: black;
+    border-radius: 10px; 
+    padding: 25px;
+    margin-left: 330px;
+    margin-top: 2 0px;
+    background-image: url(image/2\(1\).png);
+    background-size: 320px;
+    background-repeat: no-repeat;
+      
+ }
+ .enjoy h2{
+    color: yellow;
+    font-style: normal;
+    font-size: 25px;
+ }
+ .enjoy p{
+    color: #fff;
+    font-size: 20px;
+ }
+ 
+ .free{
+    width: 250px;
+    height: 310px;
+    display: inline-block;
+    background-color: #dbd0d0;
+    border-radius: 10px; 
+    padding: 25px;
+    margin-left: 320px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 60px;
+    background-image: url(image/3\(1\).png);
+    background-position: center;
+      
+ }
+ .free p{
+    font-size: 20px;
+ }
+ .japanese{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgb(61, 10, 10);
+    border-radius: 10px; 
+    padding: 25px;
+    background-image: url(image/4\(1\).png);
+    background-size: auto;
+ }
+ .japanese h2{
+    color: rgb(247, 247, 10);
+    font-style: italic;
+ }
+ .japanese h2 span{
+    font-style: normal;
+    color:rgb(247, 247, 10) ;
+ }
+ .japanese p{
+    color: #fff;
+    font-size: 30px;
+ }
+ .last{
+        text-align: center;
+        color: rgb(252, 7, 7);
+        font-style: italic;
+ }
+ .signatuse{
+text-align: center;
+margin-top: 120px;
+ }
+ .signatuse h3{
+    color: rgb(221, 9, 9);
+    font-style: italic;
+    font-size: 25px;
+ }
+ .signatuse p{
+    font-size: 30px;
+ }
+ .divs{
+    display: flex;
+    border-radius: 20px;
+    
+ }
+ .divs div{
+    width: 90px;
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    padding: 17px;
+    margin-left: 200px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+ }
+ .divs .ramen{
+    background-color: rgb(10, 10, 10);
+    color: #fff;
+    background-image: url(image/1\(3\).png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-position: 10px;
+    background-size: 25px;
+
+ }
+ .divs .b{
+background-image: url(image/2\(2\).png);
+background-repeat: no-repeat;
+background-position: 10px;
+background-size: 25px;
+ }
+ .divs .B{
+    background-image: url(image/3\(2\).png);
+    background-repeat: no-repeat;
+    background-position: 10PX;
+    background-size: 25PX;
+ }
+ .divs .F{
+    background-image: url(image/4\(2\)\(1\).png);
+    background-repeat: no-repeat;
+    background-position: 5PX;
+    background-size: 25PX;
+    padding: 19px;
+    font-size: 15px;
+ }
+.drink{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 40px;   
+}
+.drink div{
+    width: 90px;
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    padding: 19px;
+    margin-left: 200px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.drink .F{
+    background-image: url(image/5.png);
+    background-repeat: no-repeat;
+    background-position: 5PX;
+    background-size: 25PX;
+}
+.drink .S{
+    background-image: url(image/6.png);
+    background-repeat: no-repeat;
+    background-position: 8PX;
+    background-size: 25PX;
+}
+ .one{
+    
+    width: 350px;
+    display: inline-block;
+    padding: 30px;
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    border-radius: 20px;
+
+ }
+ .one img{
+      margin-left: 80px;
+ }
+ .one h2{
+      text-align: center;
+ }
+ .one p{
+    text-align: center;
+ }
+ .one button{
+    background-color: rgb(235, 235, 167);
+    border-radius: 10px;
+    padding: 11px;
+    background-position: center;
+ }
+ 
+ .two{
+    width: 350px;
+    display: inline-block;
+    padding: 30px;
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    flex-direction: row;
+    margin-left: 80px;
+    border-radius: 20px;
+ }
+ .two h2{
+    text-align: center;
+}
+.two p{
+  text-align: center;
+}
+.two button{
+  background-color: rgb(235, 235, 167);
+  border-radius: 10px;
+  padding: 11px;
+  background-position: center;
+}
+.two img{
+    margin-left: 80px;
+}
+.third{
+    width: 350px;
+    padding: 30px;
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.third h2{
+    text-align: center;
+}
+.third p{
+  text-align: center;
+}
+.third button{
+  background-color: rgb(235, 235, 167);
+  border-radius: 10px;
+  padding: 11px;
+  background-position: center;
+}
+.third img{
+    margin-left: 40px;
+}
+.fourth{
+    width: 350px;
+    padding: 30px;
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    margin-left: 88px;
+    margin-top: 30px; 
+}
+.colllection{
+    display: flex;
+}
+.fourth h2{
+    text-align: center;
+}
+.fourth p{
+  text-align: center;
+}
+.fourth button{
+  background-color: rgb(235, 235, 167);
+  border-radius: 10px;
+  padding: 11px;
+  background-position: center;
+}
+.fourth img{
+    margin-left: 40px;
+}
+.awesomeness{
+    display: flex;
+    margin-left: 40px;
+}
+.news{
+    
+        text-align: center;
+        margin-top: 120px;
+ }
+ .news h3{
+            color: rgb(221, 9, 9);
+            font-style: italic;
+            font-size: 25px;
+         }
+        
+.news p{
+            font-size: 30px;
+         }
+
+.breakfast{
+    
+            width: 350px;
+         
+            background-color: rgb(243, 235, 225);
+            border: 40px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-left: 250px;
+            border-radius: 20px;
+        
+         }
+ .breakfast h2{
+             text-align: start;
+             padding-top: 20px;
+             padding-left: 20px;
+         }
+.breakfast p{
+           font-size: 20px;
+          
+           text-align: start;
+           padding-left: 20px;
+           
+       
+         }
+.broad{
+    
+    width: 350px;
+   
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 25px;
+    border-radius: 20px;
+}
+.broad h2{
+    text-align: start;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.broad p{
+    font-size: 20px;
+     padding-left: 20px;    
+    text-align: start;
+
+}
+.broad img{
+    width: 350px;
+    
+}
+.italian{
+    width: 380px;
+    
+    background-color: rgb(243, 235, 225);
+    border: 40px;
+    text-align: start;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.italian h2{
+    text-align: start;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.italian p{
+
+        font-size: 20px;
+          padding-left: 20px;    
+        text-align: start;
+}
+.italian img{
+    width: 380px;
+}
+.gallery{
+    
+    text-align: center;
+    margin-top: 120px;
+}
+.gallery h3{
+        color: rgb(221, 9, 9);
+        font-style: italic;
+        font-size: 25px;
+     }
+    
+.gallery p{
+        font-size: 30px;
+     }
+.flex{
+    display: flex;
+}
+.flex .paper{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.flex .meat{
+    margin-left: 325px;
+    margin-top: 20px;
+}
+.inline{
+    display: flex;
+    margin: 0px;
+}
+.inline .strawbary{
+    margin-left: 330px;
+
+}
+.inline .green{
+    margin: 20px;
+
+}
